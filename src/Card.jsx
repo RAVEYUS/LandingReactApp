@@ -25,7 +25,7 @@ function Card(){
             <img src={"./night_pfp.png"} height={125} width={125} alt="profile picture" style={{ borderRadius: '50%', boxShadow: '0 2px 20px #7c3aed' }}/>
             </div>
             <div className="m-10 flex justify-center">
-            <h2 className="font-pressSt text-3xl opacity-100">RAVEYUS</h2>
+            <h2 className="font-pressSt text-3xl opacity-100">Kraj</h2>
             </div>
             <p className="font-micro text-2xl m-2.5 max-w-[300px] overflow-hidden overflow-ellipsis break-words">Hi, I am currently learning React and want to become a frontend dev in future click on these links to know more about me.</p>
             <div className="flex flex-col justify-center">
